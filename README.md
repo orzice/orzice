@@ -1,3 +1,5 @@
+![GitHub](https://komarev.com/ghpvc/?username=orzice&color=brightgreen&label=page%20views)
+
 热爱写代码和研究奇怪的东西。
 Love to write code and research strange things.
 
